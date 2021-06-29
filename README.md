@@ -67,3 +67,52 @@ realistic. Some intrusion experts believe that most novel attacks are variants o
 the signature of known attacks can be sufficient to catch novel variants. 
 The datasets contain a total number of 24 training attack types, with an additional 14 types in the 
 test data only. The name and detail description of the training attack types are listed in. 
+
+# 2) CICIDS2017
+The CICIDS 2017 (Intrusion Detection Evaluation Dataset) created by the Canadian Institute for 
+Cybersecurity at the University of New Brunswick. This dataset consists of a 5-day (3rd July- 7th 
+July 2017) data stream on a network created by computers using up-to-date operating systems such 
+as Windows Vista / 7 / 8.1 / 10, Mac, Ubuntu 12/16 and Kali.
+
+The CICIDS 2017 data set has the following advantages over the other datasets mentioned 
+above: 
+
+• The obtained data is the real-world data; was obtained from a testbed consisting of real 
+computers. 
+• Data streams are collected from computers with the up-to-date operating system. There is 
+operating system diversity (Mac, Windows, and Linux) between both attacker and victim 
+computers. 
+• Data sets are labelled. In order to apply the machine learning methods, the feature extraction, 
+which is a critical step, was applied and 85 features (see Appendix A for the feature list) were 
+obtained. 
+• Both raw data (pcap files - captured network packets files) and processed data (CSV filescomma-separated data files) are available to work on. 
+
+# Methodology
+# Tools and Methods 
+# Software Platform 
+
+Python, a free and open-source object-oriented programming language, draws 
+attention with its simple syntax and dynamic structure. In Python, it's very easy to 
+write code and analyse code. Another advantage is that it has the advantage of 
+extensive documentation (books, internet sites, forums, etc.). In addition to all these 
+advantages, it works in concert with many libraries which "machine learning" 
+applications can be done. In this context, Python3.7 has been chosen to be used in 
+this work, because of many of the advantages it provides[25]. 
+Sklearn (Scikit-learn) is a machine learning library that can be used with the Python 
+programming language. Sklearn offers a wide range of options to the user with its 
+numerous machine learning algorithms. Sklearn has extensive documentation and 
+contains all the algorithms needed for this work. 
+Pandas is a powerful data analysis library running on Python. When working with 
+a large dataset, Pandas allows you to easily perform many operations such as 
+filtering, bulk column / row deletion, addition, and replacement. Because of all these 
+advantages, the Pandas library has been used. 
+Matplotlib is a library that runs on Python, allowing visualization of data. This 
+library is used to create graphs used in the study
+NumPy, a Python library that allows you to perform mathematical and logical 
+operations quickly and easily, has been used in calculations in this work[26]. 
+Hardware Platform 
+An evaluation criterion for machine learning algorithms is the execution time. 
+However, the execution time may vary depending on the performance of the 
+computer being used. Because of this, the technical specifications of the computer 
+used in the application are shared. The technical characteristics of the computer used 
+in the implementation phase are
