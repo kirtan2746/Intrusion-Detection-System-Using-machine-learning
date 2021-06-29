@@ -1,0 +1,109 @@
+[1] K. Kostas, "Anomaly Detection in Networks Using Machine Learning," Research Proposal, 23 Mar 2018, 2018.
+[2] “Internet Growth Statistics,” Miniwatts Marketing Group, 2 Mar 2018.. Available: https://www.internetworldstats.com/emarketing.htm..
+[3] K. Leung and C. Leckie, "Unsupervised anomaly detection in network intrusion detection using clusters," in Proceedings of the Twentyeighth
+Australasian conference on Computer Science-Volume 38, 2005, pp. 333-342: Australian Computer Society, Inc.
+[4] I. Sharafaldin, A. Gharib, A. H. Lashkari, and A. A. Ghorbani, "Towards a reliable intrusion detection benchmark dataset," Software
+Networking, vol. 1, no. 1, pp. 177-200, 2017.
+[5] "1998 DARPA Intrusion Detection Evaluation Data Set," Lincoln Laboratory, Massachusetts Institute of Technology, [Online].
+Available: https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-data-set.
+[6] C. Thomas, V. Sharma, and N. Balakrishnan, "Usefulness of DARPA dataset for intrusion detection system evaluation," in Data Mining,
+Intrusion Detection, Information Assurance, and Data Networks Security 2008, 2008, vol. 6973, p. 69730G: International Society for Optics
+and Photonics.
+[7] A. Gharib, I. Sharafaldin, A. H. Lashkari, and A. A. Ghorbani, "An evaluation framework for intrusion detection dataset," in Information
+Science and Security (ICISS), 2016 International Conference on, 2016, pp. 1-6: IEEE.
+[8] "KDD Cup 1999 Data," University of California, Irvine, [Online]. Available: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html.
+[9] A. Özgür and H. Erdem, "A review of KDD99 dataset usage in intrusion detection and machine learning between 2010 and 2015," PeerJ
+PrePrints, vol. 4, p. e1954v1, 2016.
+[10] "CAIDA OC48 Peering Point Traces dataset," Center for Applied Internet Data Analysis, [Online]. Available:
+https://www.caida.org/data/passive/passive_oc48_dataset.xml.
+[11] M. Ahmed, A. N. Mahmood, and J. Hu, "A survey of network anomaly detection techniques," Journal of Network and Computer
+Applications, vol. 60, pp. 19-31, 2016.
+[12] "NSL-KDD dataset," Canadian Institute for Cybersecurity, University of New Brunswick, [Online]. Available:
+http://www.unb.ca/cic/datasets/nsl.html.
+[13] M. Tavallaee, E. Bagheri, W. Lu, and A. A. Ghorbani, "A detailed analysis of the KDD CUP 99 data set," in Computational
+Intelligence for Security and Defense Applications, 2009. CISDA 2009. IEEE Symposium on, 2009, pp. 1-6: IEEE.
+[14] "Intrusion detection evaluation dataset (ISCXIDS2012)," Canadian Institute for Cybersecurity, University of New Brunswick, [Online].
+Available: http://www.unb.ca/cic/datasets/ids.html.
+[15] A. Shiravi, H. Shiravi, M. Tavallaee, and A. A. Ghorbani, "Toward developing a systematic approach to generate benchmark datasets
+for intrusion detection," computers & security, vol. 31, no. 3, pp. 357-374, 2012.
+46
+[16] "Intrusion Detection Evaluation Dataset (CICIDS2017)," Canadian Institute for Cybersecurity, University of New Brunswick, [Online].
+Available: http://www.unb.ca/cic/datasets/ids-2017.html.
+[17] W. Stallings, L. Brown, M. D. Bauer, and A. K. Bhattacharjee, Computer security: principles and practice. Pearson Education, 2012.
+[18] M. Chhabra, B. Gupta, and A. Almomani, "A novel solution to handle DDOS attack in MANET," Journal of Information Security, vol.
+4, no. 03, p. 165, 2013.
+[19] "Hulk DoS tool," GitHub Inc, [Online]. Available: https://github.com/grafov/hulk.
+[20] S. Behal and K. Kumar, "Characterization and Comparison of DDoS Attack Tools and Traffic Generators: A Review," IJ Network
+Security, vol. 19, no. 3, pp. 383-393, 2017.
+[21] S. Haris, R. Ahmad, and M. Ghani, "Detecting TCP SYN flood attack based on anomaly detection," in Network Applications Protocols
+and Services (NETAPPS), 2010 Second International Conference on, 2010, pp. 240-244: IEEE.
+[22] J. Choi, C. Choi, B. Ko, D. Choi, and P. Kim, "Detecting Web based DDoS Attack using MapReduce operations in Cloud Computing
+Environment," J. Internet Serv. Inf. Secur., vol. 3, no. 3/4, pp. 28-37, 2013.
+[23] "Nmap: the Network Mapper - Free Security Scanner," Nmap.org. (2018), [online] Available: https://nmap.org/
+[24] R. Christopher, "Port scanning techniques and the defense against them," SANS Institute, 2001.
+[25] J. Gadge and A. A. Patil, "Port scan detection," in Networks, 2008. ICON 2008. 16th IEEE International Conference on, 2008, pp. 1-6:
+IEEE.
+[26] “LOIC,” SourceForge, [Online]. Available: https://sourceforge.net/projects/loic/.
+[27] “GoldenEye,” GitHub, 20-Jun-2018. [Online]. Available: Available: https://github.com/jseidl/GoldenEye.
+[28] “Patator,” GitHub, 04-Aug-2018. [Online]. Available: https://github.com/lanjelot/patator.
+[29] M. M. Najafabadi, T. M. Khoshgoftaar, C. Kemp, N. Seliya, and R. Zuech, "Machine learning for detecting brute force attacks at the
+network level," in Bioinformatics and Bioengineering (BIBE), 2014 IEEE International Conference on, 2014, pp. 379-385: IEEE.
+[30] T. Ylonen and C. Lonvick, "The secure shell (SSH) protocol architecture," 2070-1721, 2005.
+[31] L. Hellemons, L. Hendriks, R. Hofstede, A. Sperotto, R. Sadre, and A. Pras, "SSHCure: a flow-based SSH intrusion detection system,"
+in IFIP International Conference on Autonomous Infrastructure, Management and Security, 2012, pp. 86-97: Springer.
+[32] “A new DOS Perl Program,” GitHub, 05 Nov 2013. [Online]. Available: https://github.com/llaera/slowloris.pl.
+[33] “slowhttptest,” GitHub. [Online]. Available: https://github.com/shekyan/slowhttptest/wiki.
+[34] “Slow Read DoS Attack.” Istanbul Technical University, 07 Sep 2013. [Online]. Available:
+https://bidb.itu.edu.tr/eskiler/seyirdefteri/blog/2013/09/07/slow-read-dos-attack-(yavaş-okutarak-hizmet-engelleme-saldırısı).
+[35] “Ares,” GitHub, 08-Dec-2017. [Online]. Available: https://github.com/sweetsoftware/Ares.
+[36] A. Sperotto, Flow-based intrusion detection. Citeseer, 2010.
+47
+[37] P. Likarish, E. Jung, and I. Jo, "Obfuscated malicious javascript detection using classification techniques," in Malicious and Unwanted
+Software (MALWARE), 2009 4th International Conference on, 2009, pp. 47-54: IEEE.
+[38] “heartleech,” GitHub, 07-Jun-2014. [Online]. Available: https://github.com/robertdavidgraham/heartleech.
+[39] V. Bartoš, "Heartbleed Detection at CESNET using Extended Flow Monitoring," in Proceedings of 8th International Scientific
+Conference on Security and Protection of Information, 2015.
+[40] A. Géron, Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems. "
+O'Reilly Media, Inc.", 2017.
+[41] S. B. Kotsiantis, I. Zaharakis, and P. Pintelas, "Supervised machine learning: A review of classification techniques," Emerging artificial
+intelligence applications in computer engineering, vol. 160, pp. 3-24, 2007.
+[42] L. Breiman, "Random forests," Machine learning, vol. 45, no. 1, pp. 5-32, 2001.
+62
+[43] J. P. Mueller and L. Massaron, “Machine Learning For Dummies Cheat Sheet,”dummies.[Online].Available:
+https://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/.
+[44] R. E. Schapire, "The boosting approach to machine learning: An overview," in Nonlinear estimation and classification: Springer, 2003,
+pp. 149-171.
+[45] E. Alpaydin, Introduction to machine learning. MIT press, 2009.
+[46] M. S. Uzer, "Feature Selection Algorithms Developed by Using Artificial Intelligence And Feature Transform Methods In Pattern
+Recognition Applications," Ph.D Thesis, The Graduate School of Natural and Applied Science Selçuk University, 2014.
+[47] S. Chebrolu, A. Abraham, and J. P. Thomas, "Feature deduction and ensemble design of intrusion detection systems," Computers &
+security, vol. 24, no. 4, pp. 295-307, 2005.
+[48] L. Khan, M. Awad, and B. Thuraisingham, "A new intrusion detection system using support vector machines and hierarchical
+clustering," The VLDB journal, vol. 16, no. 4, pp. 507-521, 2007.
+[49] M. Suresh and R. Anitha, "Evaluating machine learning algorithms for detecting DDoS attacks," in International Conference on
+Network Security and Applications, 2011, pp. 441-452: Springer.
+[50] S. Mukherjee and N. Sharma, "Intrusion detection using naive Bayes classifier with feature reduction," Procedia Technology, vol. 4, pp.
+119-128, 2012.
+[51] W. Yassin, N. I. Udzir, Z. Muda, and M. N. Sulaiman, "Anomaly-based intrusion detection through k-means clustering and naives
+bayes classification," in Proc. 4th Int. Conf. Comput. Informatics, ICOCI, 2013, no. 49, pp. 298-303.
+[52] “Python 3.6.6 documentation,” Python Software Foundation. [Online]. Available: https://docs.python.org/3.6/.
+[53] “scikit-learn,” scikit-learn 0.19.1 documentation. [Online]. Available: http://scikit-learn.org/stable/.
+[54] “Python Data Analysis Library,” pandas: powerful Python data analysis toolkit - pandas 0.22.0 documentation. [Online]. Available:
+https://pandas.pydata.org/.
+[55] “Matplotlib: Python plotting - Matplotlib 2.2.2 documentation,” Matplotlib. [Online]. Available: https://matplotlib.org/.
+[56] “NumPy,” NumPy developers. [Online]. Available: http://www.numpy.org/.
+48
+[57] M. H. Bhuyan, D. K. Bhattacharyya, and J. K. Kalita, "Network anomaly detection: methods, systems and tools," Ieee communications
+surveys & tutorials, vol. 16, no. 1, pp. 303-336, 2014.
+[58] “sklearn.preprocessing.LabelEncoder,” 1.4. Support Vector Machines - scikit-learn 0.19.1 documentation. [Online]. Available:
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html.
+[59] “train_test_split,” scikit-learn 0.19.1 documentation. [Online]. Available:
+http://scikitlearn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html.
+[60] J. Brownlee, “Feature Importance and Feature Selection With XGBoost in Python,” Machine Learning Mastery, 10-Mar-2018.
+[Online]. Available: https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/.
+[61] R. Alshammari and A. N. Zincir-Heywood, "A flow based approach for SSH traffic detection," in Systems, Man and Cybernetics,
+2007. ISIC. IEEE International Conference on, 2007, pp. 296-301: IEEE.
+[62] H. Choi, H. Lee, and H. Kim, "Fast detection and visualization of network attacks on parallel coordinates," computers & security, vol.
+28, no. 5, pp. 276-288, 2009.
+[63]“sklearn.ensemble.RandomForestRegressor,”scikit-learn.[Online].
+Available:http://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html.
