@@ -1,0 +1,2 @@
+KDD DATASET : https://www.kaggle.com/hassan06/nslkdd
+cICIDS DATASET : https://www.kaggle.com/cicdataset/cicids2017
