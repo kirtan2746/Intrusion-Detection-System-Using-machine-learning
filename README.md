@@ -89,7 +89,8 @@ obtained.
 
 # Methodology
 # Tools and Methods 
-# Software Platform 
+
+Software Platform 
 
 Python, a free and open-source object-oriented programming language, draws 
 attention with its simple syntax and dynamic structure. In Python, it's very easy to 
@@ -97,22 +98,35 @@ write code and analyse code. Another advantage is that it has the advantage of
 extensive documentation (books, internet sites, forums, etc.). In addition to all these 
 advantages, it works in concert with many libraries which "machine learning" 
 applications can be done. In this context, Python3.7 has been chosen to be used in 
-this work, because of many of the advantages it provides[25]. 
+this work, because of many of the advantages it provides. 
+
 Sklearn (Scikit-learn) is a machine learning library that can be used with the Python 
 programming language. Sklearn offers a wide range of options to the user with its 
 numerous machine learning algorithms. Sklearn has extensive documentation and 
 contains all the algorithms needed for this work. 
+
 Pandas is a powerful data analysis library running on Python. When working with 
 a large dataset, Pandas allows you to easily perform many operations such as 
 filtering, bulk column / row deletion, addition, and replacement. Because of all these 
 advantages, the Pandas library has been used. 
+
 Matplotlib is a library that runs on Python, allowing visualization of data. This 
 library is used to create graphs used in the study
+
 NumPy, a Python library that allows you to perform mathematical and logical 
-operations quickly and easily, has been used in calculations in this work[26]. 
+operations quickly and easily, has been used in calculations in this work. 
+
 Hardware Platform 
 An evaluation criterion for machine learning algorithms is the execution time. 
 However, the execution time may vary depending on the performance of the 
 computer being used. Because of this, the technical specifications of the computer 
 used in the application are shared. The technical characteristics of the computer used 
 in the implementation phase are
+
+
+# DATA Pre-processing
+
+1) Pre-processing of KDD
+
+❖ First let’s analyse kdd’99 dataset, here is first few entries of kdd’99 dataset
+
